@@ -1,4 +1,4 @@
-proxy="speedway.usefixie.com" 
+proxy="34.192.31.89" 
 port="1080" 
 user="fixie"  
 pass="Jc2jw1OwYtLoIiE"  
